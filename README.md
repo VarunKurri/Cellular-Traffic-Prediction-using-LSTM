@@ -1,5 +1,23 @@
-# Cellular-Traffic-Prediction-using-LSTM
+# Cellular Traffic Prediction using LSTM
+
+## How to run the code
+
+1. Open the Python file called "lstm-code.py" using PyCharm or Spyder. 
+2. All the datasets (test and train) and the Python code should be in the same path/directory.
+3. Required modules for the LSTM code are:
+    * Keras
+    * Tensorflow
+    * NumPy
+    * Pandas
+    * Plotly
+    * scikit
+
+## LSTM
+
+
+
 ## Dataset
+
 The data traffic information of 4G LTE networks has been used as
 dataset for training and testing. When a subscriber uses mobile data service on their devices,
 data will be provided by their nearby 4G cell. The trafiic of any cell within 1 hour is nothing
@@ -13,6 +31,7 @@ divergence between days of the week (e.g., traffic graphs for office buildings, 
 Monday 14:00 to 18:00 and low on Saturday and Sunday). It differs for special events such as
 festivals, holidays, etc. The data consists of 8733 entries from 23-10-2017 to 22-10-2018 (one
 year). It is further divided into 2 datasets:
+
 * Training Dataset
 * Test Dataset
 
@@ -23,3 +42,4 @@ Cell_000112, and Cell_000113) to check the consistency of our LSTM model. The RN
 algorithm requires training and test datasets to predict data traffic. It uses the training dataset to
 train the algorithm based on the model and the number of layers required for training to get the
 best output.
+
