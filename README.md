@@ -2,8 +2,9 @@
 
 ## How to run the code
 
-1. Open the Python file called "lstm-code.py" using PyCharm or Spyder. 
-2. Required modules for the above code are:
+1. All the files related to this project can be found under "LSTM_Code" directory.
+2. Open the Python file called "lstm-code.py" using PyCharm or Spyder. 
+3. Required modules for the above code are:
     * Keras
     * Tensorflow
     * NumPy
@@ -11,7 +12,7 @@
     * Plotly
     * scikit
     * matplotlib
-3. All the datasets(test and train) and the Python code should be in the same path/directory.
+4. All the datasets(test and train) and the Python code should be in the same path/directory.
 
 
 ## Dataset
