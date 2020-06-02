@@ -1,5 +1,5 @@
 # Cellular-Traffic-Prediction-using-LSTM
-#the data traffic information of 4G LTE networks has been used as
+## the data traffic information of 4G LTE networks has been used as
 dataset for training and testing. When a subscriber uses mobile data service on their devices,
 data will be provided by their nearby 4G cell. The trafiic of any cell within 1 hour is nothing
 but the total data capacity of all users served by a cell within an hour. For example, a cell is
