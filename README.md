@@ -41,3 +41,9 @@ algorithm requires training and test datasets to predict data traffic. It uses t
 train the algorithm based on the model and the number of layers required for training to get the
 best output.
 
+## Outputs
+
+The Actual vs. Prediction graph, Loss function graph and Confusion Matrix of 3 LTE Cell towers are in the "Outputs" directory.
+It is observed that for all three towers almost, the predicted value matches with the actual traffic of 4G LTE network. From the confusion matrix computation, it has been found that the prediction accuracy of three cell towers 0001111, 000112, and 000113 is 86.23%, 91.02%, and 96.41%, respectively. This prediction accuracy will be better than the previous models.
+
+
