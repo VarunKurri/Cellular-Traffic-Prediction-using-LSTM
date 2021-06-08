@@ -2,8 +2,8 @@
 
 ## How to run the code
 
-1. All the files related to this project can be found under "LSTM_Code" directory.
-2. Open the Python file called "lstm-code.py" using PyCharm or Spyder. 
+1. All the files related to this project can be found under "LSTM" directory.
+2. Open the Python file called "LSTM_ARIMA_Prediction.py" using PyCharm or Spyder. 
 3. Required modules for the above code are:
     * Keras
     * Tensorflow
