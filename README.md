@@ -1,4 +1,5 @@
 # Cellular Traffic Prediction using LSTM
+Mobile Traffic Prediction using multi-layered LSTM model and comparing it with ARIMA model. 
 
 ## How to run the code
 
